@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 🥇
 
-<!--
-**M4theus123/M4theus123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com)
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para o compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Para entrar em contato comigo 📫
+
+  riangeremias1234@gmail.com
+  
+  @tedu12
+
+  ![](https://media.tenor.com/5ieM0e1aISYAAAAi/raiden-shonun-genshin-impact.gif[)
